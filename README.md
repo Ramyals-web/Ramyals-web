@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ramya @Ramyals-web.
 - 👀 I’m interested in Data Analytics and Visualizations.
 - 🌱 I recently completed Data Analytics Certification.
-- 💞️ I’m looking to collaborate on new
+- 💞️ I’m looking to collaborate on projects where I can implement my skills.
 - 📫 How to reach me ramya.sivaprakasam@gmail.com
 
 <!---
